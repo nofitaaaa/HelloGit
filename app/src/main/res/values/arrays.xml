@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="jurusan">
+        <item> </item>
+        <item> RPL</item>
+        <item> TKJ</item>
+        <item> TJA</item>
+    </string-array>
+</resources>
